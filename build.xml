@@ -1,0 +1,4 @@
+<project name="SistemaVentasDAO" default="default" basedir=".">
+    <description>Builds, tests, and runs the project SistemaVentasDAO.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
